@@ -2340,6 +2340,10 @@ img {
   font-size: 16px;
 }
 
+.contactlink:hover {
+  color: #e494b7;
+}
+
 .footer-div {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
