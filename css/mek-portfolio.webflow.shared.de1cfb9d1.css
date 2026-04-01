@@ -2208,6 +2208,7 @@ img {
   flex-flow: column;
   justify-content: space-between;
   height: 100vh;
+  height: 100svh;
   display: flex;
 }
 
@@ -2461,6 +2462,7 @@ img {
 
   .frame-container {
     height: 100vh;
+    height: 100svh;
   }
 
   .frame-top, .frame-bottom {
